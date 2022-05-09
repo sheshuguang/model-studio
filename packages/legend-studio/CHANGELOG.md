@@ -1,5 +1,13 @@
 # @finos/legend-studio
 
+## 9.1.0
+
+### Minor Changes
+
+- [#1114](https://github.com/finos/legend-studio/pull/1114) [`5e248794`](https://github.com/finos/legend-studio/commit/5e24879419c4116456d58b67702919bc0577eeb6) ([@MauricioUyaguari](https://github.com/MauricioUyaguari)) - Add (WIP) global testable runner v0.
+
+* [#1133](https://github.com/finos/legend-studio/pull/1133) [`bd86b7b3`](https://github.com/finos/legend-studio/commit/bd86b7b3e4c02b1409b71e0ce9922d701669edcb) ([@gayathrir11](https://github.com/gayathrir11)) - Add editor for `ExternalFormat` embedded data.
+
 ## 9.0.2
 
 ## 9.0.1

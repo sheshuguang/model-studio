@@ -1,5 +1,13 @@
 # @finos/legend-graph
 
+## 6.1.0
+
+### Minor Changes
+
+- [#1114](https://github.com/finos/legend-studio/pull/1114) [`5e248794`](https://github.com/finos/legend-studio/commit/5e24879419c4116456d58b67702919bc0577eeb6) ([@MauricioUyaguari](https://github.com/MauricioUyaguari)) - Deprecate running service Legacy Tests.
+  Add `RelationalData` and `EqualToTDS` to support testing on relational queries.
+  Support running testable tests.
+
 ## 6.0.1
 
 ## 6.0.0
